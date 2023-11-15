@@ -1,6 +1,8 @@
 # Read Me First
 The following was discovered as part of building this project:
 
+# El archivo orignal y completo esta en el modulo2, para fines practicos y de repsaldo aqui se ejecutaran los ejercicios y despues de "actualizaran en el repositorio "modulo2"
+
 * The original package name 'unam.diplomado.modulo2.libros-servicio' is invalid and this project uses 'unam.diplomado.modulo2.librosservicio' instead.
 
 # Getting Started
